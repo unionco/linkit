@@ -12,6 +12,7 @@
 		"linkit",
 		"fruit studios"
 	],
+	"minimum-stability": "dev",
 	"support": {
 		"email": "hi@fruitstudios.co.uk",
 		"issues":
@@ -52,5 +53,3 @@
         }
 	}
 }
-
-
